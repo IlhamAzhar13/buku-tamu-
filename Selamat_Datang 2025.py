@@ -57,7 +57,7 @@ menu = st.sidebar.selectbox("Menu", ["Form Buku Tamu", "Daftar Tamu"])
 if menu == "Form Buku Tamu":
     # Tampilkan logo
     st.image(
-        "D:\TESTING KP\Buku Tamu BMKG\logo.png",
+        r"D:\TESTING KP\Buku Tamu BMKG\logo.png",
         width=200,
         caption="Stasiun Geofisika Nganjuk",
         use_container_width=False
