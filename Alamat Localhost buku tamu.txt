@@ -1,0 +1,10 @@
+C:\Users\pc nganjuk 4>E:
+
+E:\>cd Buku Tamu BMKG
+
+E:\Buku Tamu BMKG>streamlit run "E:\Buku Tamu BMKG\Selamat Datang.py"
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://172.22.120.67:8501
